@@ -1,7 +1,7 @@
 package core
 
 import (
-	"github.com/xlvector/hector/util"
+	"ml4go/util"
 )
 
 /*

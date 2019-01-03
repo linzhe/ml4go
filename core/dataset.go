@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/xlvector/hector/util"
+	"ml4go/util"
 )
 
 type CombinedFeature []string

@@ -1,9 +1,9 @@
 package core
 
 import (
-	"github.com/xlvector/hector/util"
 	"math"
 	"math/rand"
+	"ml4go/util"
 	"strconv"
 	"strings"
 )

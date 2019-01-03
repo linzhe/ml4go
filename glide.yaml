@@ -1,0 +1,5 @@
+package: golearn
+import:
+- package: gonum.org/v1/gonum
+  subpackages:
+  - mat

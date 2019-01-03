@@ -1,0 +1,19 @@
+hash: cfc5022ec30711802046971d95aa44068e2cef5d67c410cef45509697eb1dec0
+updated: 2018-12-10T18:40:24.034224+08:00
+imports:
+- name: gonum.org/v1/gonum
+  version: 572d9101fe4fdede494f26999a59d09229b7c11b
+  subpackages:
+  - blas
+  - blas/blas64
+  - blas/gonum
+  - floats
+  - internal/asm/c128
+  - internal/asm/f32
+  - internal/asm/f64
+  - internal/math32
+  - lapack
+  - lapack/gonum
+  - lapack/lapack64
+  - mat
+testImports: []
